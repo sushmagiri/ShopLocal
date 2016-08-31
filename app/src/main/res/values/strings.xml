@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ShopLocal1</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <string name="please_fill_the_form">Please fill the form.</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone</string>
+    <string name="submit">Submit</string>
+    <string name="shop_local">SHOP LOCAL</string>
+    <string name="item_image">Image</string>
+    <string name="item_name">Name</string>
+    <string name="item_price">Price</string>
+    <string name="description">Description</string>
+    <string name="buy">BUY</string>
+    <string name="address">Address</string>
+</resources>

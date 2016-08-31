@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+   <item android:id="@+id/AboutUs"
+       android:title="About us"/>
+    <item android:id="@+id/categories"
+        android:title="Categories" />
+
+    <item android:title="Womensclothing"
+        android:id="@+id/Womensclothing"
+        />
+
+    <item android:title="accesories"
+        android:id="@+id/Accesories"
+        />
+    <item android:title="shoes"
+        android:id="@+id/Shoes"
+        />
+    <item android:title="Contact Us"
+        android:id="@+id/ContactUs"/>
+
+    <item android:title="www.shoplocal.org"
+        android:id="@+id/Shoplocal"
+        />
+
+</menu>
